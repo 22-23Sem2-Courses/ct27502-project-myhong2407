@@ -2,15 +2,15 @@
 
 Học kỳ 2, Năm học 2022-2023
 
-**MSSV 1** : 
+**MSSV 1** :  B2014656
 
-**Họ tên SV 1**:
+**Họ tên SV 1**: Nguyễn Thị Mỹ Hồng
 
-**MSSV 2**:
+**MSSV 2**: B2005688
 
-**Họ tên SV 2**:
+**Họ tên SV 2**: Nguyễn Thị Mỹ Phụng
 
-**Lớp học phần**:
+**Lớp học phần**: CT275 02
 
-**Tên dự án**:
+**Tên dự án**: Shop quà tặng
 
