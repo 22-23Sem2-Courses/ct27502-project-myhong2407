@@ -1,0 +1,104 @@
+body {
+    font-size: 23px;
+    font-family: sans-serif;
+    background-color: #f1f1f1;
+}
+
+a.gb-title {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+a.gb-title:hover{
+    color:#fff;
+}
+nav {
+    margin-top: 27px;
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    font-size: 0;
+}
+
+nav a {
+    line-height: 50px;
+    height: 100%;
+    font-size: 15px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+
+
+.btn-nav {
+    margin-top: 175px;
+    margin-right: 10px;
+}
+
+.btn-nav .btn {
+    font-size: 25px;
+    border: none;
+    color: #FFF;
+}
+
+.btn-nav .btn:hover {
+    color:  #FFF;
+}
+
+.btn-nav .ip {
+    background-color: #0081B4;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid  #FFF;
+}
+
+::-webkit-input-placeholder {
+   color:  #FFF;
+}
+:-moz-placeholder {
+   color:  #FFF;
+}
+::-moz-placeholder {
+   color:  #FFF;
+}
+:-ms-input-placeholder {
+   color:  #FFF;
+}
+
+
+.go-top {
+    position: fixed;
+    border: 0;
+    right: 5px;
+    bottom: 10px;
+    padding: 10px;
+    z-index: 100;
+}
+
+.go-top img {
+    height: 60px;
+    width: 60x;
+}
+
+.row .end {
+    /* border: 1px solid #0bb399; */
+    display: flex;
+}
+
+/* Tin Tức */
+
+.tintuc .row{
+    margin-top: 10px;
+}
+.banner_cate img{
+    max-width: 100%;
+    height: 100%;
+}
