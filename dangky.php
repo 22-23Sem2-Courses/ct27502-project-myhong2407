@@ -93,7 +93,7 @@ if(isset($_POST['submit'])){
                 </div>
             </div>
         </div>
-       22</div>
+    </div>
     </main>
     <script type="text/javascript">
 		$(document).ready(function(){
